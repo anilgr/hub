@@ -1,2 +1,2 @@
 # hub
-A hub of all the mini projects
+A hub of all the hobby projects
